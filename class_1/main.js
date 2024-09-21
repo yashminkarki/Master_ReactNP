@@ -4,7 +4,7 @@ let name = "ram";
 name = "asd"
 
 const age = 12
-age = 12
+age = 13
 
 
 console.log(a, age);
